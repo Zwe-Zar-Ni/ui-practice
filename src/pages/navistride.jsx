@@ -199,7 +199,7 @@ const Navistride = () => {
             Edge Case
           </span>
           <video
-            src="https:/navistride.online/navistride_dashcam.mp4"
+            src="https://navistride.online/navistride_dashcam.mp4"
             controls
             className="w-full z-10 min-h-80 rounded-lg"
           ></video>
@@ -423,7 +423,7 @@ const Navistride = () => {
             className="absolute blur-xs dollar z-10 -top-8 left-44"
           />
           <video
-            src="https:/navistride.online/navistride_demo.mp4"
+            src="https://navistride.online/navistride_demo.mp4"
             className="w-full z-40 h-full absolute p-1 min-h-80 rounded-lg"
             controls
           ></video>
