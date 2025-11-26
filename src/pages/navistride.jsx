@@ -151,7 +151,7 @@ const Navistride = () => {
       </section>
       <section className="min-h-screen flex justify-center items-center flex-col gap-4 px-1 z-40">
         <img
-          src="/public/navistride/navistride_logo.webp"
+          src="/navistride/navistride_logo.webp"
           className="w-sm md:w-md lg:w-xl xl:w-2xl logo"
           alt=""
         />
@@ -199,7 +199,7 @@ const Navistride = () => {
             Edge Case
           </span>
           <video
-            src="https://navistride.online/navistride_dashcam.mp4"
+            src="https:/navistride.online/navistride_dashcam.mp4"
             controls
             className="w-full z-10 min-h-80 rounded-lg"
           ></video>
@@ -327,7 +327,7 @@ const Navistride = () => {
           </div>
           <div className="w-full md:w-1/3">
             <img
-              src="/public/navistride/real_driving.webp"
+              src="/navistride/real_driving.webp"
               className="max-w-full aspect-5/6 object-cover rounded-lg"
               alt=""
             />
@@ -423,12 +423,12 @@ const Navistride = () => {
             className="absolute blur-xs dollar z-10 -top-8 left-44"
           />
           <video
-            src="https://navistride.online/navistride_demo.mp4"
+            src="https:/navistride.online/navistride_demo.mp4"
             className="w-full z-40 h-full absolute p-1 min-h-80 rounded-lg"
             controls
           ></video>
           <img
-            src="/public/navistride/navistride_phone.png"
+            src="/navistride/navistride_phone.png"
             className="absolute z-50 w-60 hover:scale-110 transition-all duration-200 h-fit lg:-bottom-12 lg:-left-12 bottom-0 left-0"
             alt=""
           />
@@ -477,7 +477,7 @@ const Navistride = () => {
           <li className="lg:w-[30%] w-full relative p-4 rounded-lg bg-[#3470df1a]">
             <div className="animate-pulse w-4 h-4 rounded-full bg-blue-300/60 absolute top-2 right-2"></div>
             <img
-              src="/public/navistride/street_view.webp"
+              src="/navistride/street_view.webp"
               alt=""
               className="w-full h-fit rounded-lg"
             />
@@ -493,7 +493,7 @@ const Navistride = () => {
           <li className="lg:w-[30%] w-full relative p-4 rounded-lg bg-[#34df7315]">
             <div className="animate-pulse w-4 h-4 rounded-full bg-green-300/60 absolute top-2 right-2"></div>
             <img
-              src="/public/navistride/street_view.webp"
+              src="/navistride/street_view.webp"
               alt=""
               className="w-full h-fit rounded-lg"
             />
@@ -509,7 +509,7 @@ const Navistride = () => {
           <li className="lg:w-[30%] w-full relative p-4 rounded-lg bg-[#2b22554b]">
             <div className="animate-pulse w-4 h-4 rounded-full bg-indigo-300/60 absolute top-2 right-2"></div>
             <img
-              src="/public/navistride/street_view.webp"
+              src="/navistride/street_view.webp"
               alt=""
               className="w-full h-fit rounded-lg"
             />
@@ -549,7 +549,7 @@ const Navistride = () => {
               Proof of Concept
             </span>
             <img
-              src="/public/navistride/navistride_device.png"
+              src="/navistride/navistride_device.png"
               className="w-full h-fit rounded-lg z-0"
               alt=""
             />
