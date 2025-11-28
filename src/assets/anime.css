@@ -1,0 +1,27 @@
+.box1 {
+    background-image: url('/anime/shape1.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.box2 {
+    background-image: url('/anime/shape2.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.box3 {
+    background-image: url('/anime/shape3.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.box4 {
+    background-image: url('/anime/shape4.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}

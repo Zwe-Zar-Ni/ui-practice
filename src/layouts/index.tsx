@@ -9,12 +9,18 @@ const RootLayout = () => {
       {isOpen ? (
         <div
           onClick={() => setIsOpen(false)}
-          className="fixed w-screen h-screen z-999 bg-[#21273f79] flex justify-center pt-40"
+          className="fixed w-screen h-screen z-999 bg-[#21273f25] flex justify-center pt-40"
         >
-          <div className="p-4 h-fit rounded-lg bg-[#21273f] text-white min-w-[360px]">
+          <div className="p-4 h-fit rounded-lg bg-[#21273f9f] text-white min-w-[360px] space-y-2">
             <h3 className="text-lg font-medium mb-4">Pages</h3>
             <NavLink to="/" className="p-2 rounded bg-[#3047a3] w-full block">
-              1. Navistride
+              1. Anime Fashion
+            </NavLink>
+            <NavLink
+              to="/navistride"
+              className="p-2 rounded bg-[#3047a3] w-full block"
+            >
+              2. Navistride
             </NavLink>
           </div>
         </div>
